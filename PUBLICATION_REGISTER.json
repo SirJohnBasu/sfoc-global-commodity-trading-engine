@@ -1,0 +1,28 @@
+{
+  "project": "SFOC Global Commodity Trading Engine",
+  "canonical": "Zenodo",
+  "author": "John Kalyan Basu",
+  "orcid": "0009-0009-5561-4441",
+  "official_publisher": "Swiss Family Office (Novel Technology) Club",
+  "publications": [
+    {
+      "slug": "scientific-concept-paper",
+      "title": "Can Global Commodity Markets Interoperate without a Central Gatekeeper? A Federated, Vendor-Neutral Architecture and Testable Research Agenda",
+      "doi": "10.5281/zenodo.23912911",
+      "type": "Scientific concept paper (preprint, not peer reviewed)",
+      "date": "2026-11-03",
+      "sha256": "01ae688cf6a29450db9d88bc294d58f30f31d5b1a7b51e71541688d026ba2c28",
+      "file": "SFOC_Zenodo_Science_23912911_Publish.pdf"
+    },
+    {
+      "slug": "global-commodity-trading-engine-white-paper",
+      "title": "Global Commodity Trading Engine: An Open, Federated and Future-Adaptable Infrastructure for Global Commodity Markets",
+      "doi": "10.5281/zenodo.23913120",
+      "type": "White paper (industry report)",
+      "date": "2026-11-03",
+      "sha256": "1d446b3f913818dd2c98a056a91c57018a8ff31a8edfce02a4f54ba282dd8b56",
+      "file": "SFOC_Global_Commodity_Trading_Engine_White_Paper_v1.0_PUBLISH.pdf"
+    }
+  ],
+  "scope": "byte-identical mirror of already-published v1.0; no rights or DOI changes"
+}
