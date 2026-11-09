@@ -1,15 +1,18 @@
 {
   "slug": "global-commodity-trading-engine-white-paper",
   "title": "Global Commodity Trading Engine: An Open, Federated and Future-Adaptable Infrastructure for Global Commodity Markets",
-  "doi": "10.5281/zenodo.23913120",
-  "source": "SFOC_Global_Commodity_Trading_Engine_White_Paper_v1.0_PUBLISH.pdf",
+  "version": "1.1",
+  "doi": "10.5281/zenodo.24087223",
+  "previous_doi": "10.5281/zenodo.23913120",
+  "canonical_source": "Zenodo",
+  "canonical_file": "02_SFOC_WhitePaper_v1.1.pdf",
   "type": "White paper (industry report)",
-  "date": "2026-11-03",
+  "date": "2026-11-09",
   "author": "John Kalyan Basu",
   "orcid": "0009-0009-5561-4441",
-  "publisher": "Swiss Family Office (Novel Ecosystems) Club",
+  "publisher": "Swiss Family Office (Novel Ecosystems) Club (SFOC), Switzerland",
   "license": "All rights reserved",
-  "file_bytes": 197478,
-  "sha256": "1d446b3f913818dd2c98a056a91c57018a8ff31a8edfce02a4f54ba282dd8b56",
-  "md5": "e86e079b068dc5b18b4c57ea48c20b14"
+  "file_bytes": 154451,
+  "sha256": "048f4571c5890f013a6110df5322d59da74f01572f66a92154ccd9a0523b5dce",
+  "md5": "129a1984c24b759b600b528dd32c525e"
 }
