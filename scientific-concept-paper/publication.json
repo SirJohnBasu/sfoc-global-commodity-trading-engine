@@ -1,15 +1,18 @@
 {
   "slug": "scientific-concept-paper",
   "title": "Can Global Commodity Markets Interoperate without a Central Gatekeeper? A Federated, Vendor-Neutral Architecture and Testable Research Agenda",
-  "doi": "10.5281/zenodo.23912911",
-  "source": "SFOC_Zenodo_Science_23912911_Publish.pdf",
+  "version": "1.1",
+  "doi": "10.5281/zenodo.24087040",
+  "previous_doi": "10.5281/zenodo.23912911",
+  "canonical_source": "Zenodo",
+  "canonical_file": "01_SFOC_Scientific_v1.1.pdf",
   "type": "Scientific concept paper (preprint, not peer reviewed)",
-  "date": "2026-11-03",
+  "date": "2026-11-09",
   "author": "John Kalyan Basu",
   "orcid": "0009-0009-5561-4441",
-  "publisher": "Swiss Family Office (Novel Ecosystems) Club",
+  "publisher": "Swiss Family Office (Novel Ecosystems) Club (SFOC), Switzerland",
   "license": "All rights reserved",
-  "file_bytes": 182195,
-  "sha256": "01ae688cf6a29450db9d88bc294d58f30f31d5b1a7b51e71541688d026ba2c28",
-  "md5": "d5d9a7c07551cd823cc87bf8103176e1"
+  "file_bytes": 163547,
+  "sha256": "0a16c67de8b299a3017997108cecd51c5622ad7283f78b1a68a812fe64871307",
+  "md5": "5ebcc26204a3285cd168f83e131ddb7d"
 }
