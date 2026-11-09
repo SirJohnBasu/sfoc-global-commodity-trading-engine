@@ -1,2 +1,7 @@
+# Current canonical v1.1 files on Zenodo
+0a16c67de8b299a3017997108cecd51c5622ad7283f78b1a68a812fe64871307  01_SFOC_Scientific_v1.1.pdf
+048f4571c5890f013a6110df5322d59da74f01572f66a92154ccd9a0523b5dce  02_SFOC_WhitePaper_v1.1.pdf
+
+# Historical v1.0 files retained in this repository
 01ae688cf6a29450db9d88bc294d58f30f31d5b1a7b51e71541688d026ba2c28  scientific-concept-paper/SFOC_Zenodo_Science_23912911_Publish.pdf
 1d446b3f913818dd2c98a056a91c57018a8ff31a8edfce02a4f54ba282dd8b56  global-commodity-trading-engine-white-paper/SFOC_Global_Commodity_Trading_Engine_White_Paper_v1.0_PUBLISH.pdf
