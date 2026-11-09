@@ -1,16 +1,19 @@
-# Global Commodity Trading Engine: An Open, Federated and Future-Adaptable Infrastructure for Global Commodity Markets
+# Global Commodity Trading Engine
 
-**Author:** John Kalyan Basu (ORCID [0009-0009-5561-4441](https://orcid.org/0009-0009-5561-4441))  
+## An Open, Federated and Future-Adaptable Infrastructure for Global Commodity Markets
+
+**Author:** John Kalyan Basu · ORCID 0009-0009-5561-4441  
 **Publisher / originating institution:** Swiss Family Office (Novel Ecosystems) Club (SFOC), Switzerland  
-**Edition:** v1.0, 3 November 2026  
+**Current edition:** v1.1, 9 November 2026  
 **Document type:** White paper (industry report)  
-**Canonical Zenodo publication:** https://doi.org/10.5281/zenodo.23913120  
-**PDF file:** [SFOC_Global_Commodity_Trading_Engine_White_Paper_v1.0_PUBLISH.pdf](./SFOC_Global_Commodity_Trading_Engine_White_Paper_v1.0_PUBLISH.pdf)
+**Canonical Zenodo DOI:** https://doi.org/10.5281/zenodo.24087223  
+**Previous v1.0 DOI:** https://doi.org/10.5281/zenodo.23913120  
+**Canonical v1.1 file SHA-256:** `048f4571c5890f013a6110df5322d59da74f01572f66a92154ccd9a0523b5dce`
 
-This is a byte-identical mirror of the already-published PDF, **not a new edition and not a new DOI**. Both documents belong to one SFOC research topic, with one scientific preprint and one accompanying industry white paper.
+The v1.1 edition corrects the institutional identity to **Swiss Family Office (Novel Ecosystems) Club (SFOC)** and updates the market/state-of-the-art section using the same evidence base as the scientific concept paper.
 
-**Integrity:** SHA-256: `1d446b3f913818dd2c98a056a91c57018a8ff31a8edfce02a4f54ba282dd8b56` (197478 bytes). The canonical Zenodo MD5 is `e86e079b068dc5b18b4c57ea48c20b14`.
+The original v1.0 PDF remains in this folder as publication history. **Zenodo is the canonical source for v1.1.**
 
-**Rights:** © 2026 Swiss Family Office (Novel Ecosystems) Club. All rights reserved. Public access does not grant a Creative Commons or open-source license. Use beyond applicable legal exceptions requires permission.
+**Rights:** © 2026 Swiss Family Office (Novel Ecosystems) Club. All rights reserved.
 
-**Institutional role:** SFOC's role is independent conceptual publication. SFOC does not undertake to develop, finance, own, operate, govern or control a future Global Commodity Trading Engine. This research is conceptual; no implemented, empirically validated engine is claimed.
+**Institutional role:** SFOC's role is independent conceptual publication. SFOC does not undertake to develop, finance, own, operate, govern or control a future Global Commodity Trading Engine. No implemented or empirically validated engine is claimed.
